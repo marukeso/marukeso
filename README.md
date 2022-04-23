@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <div>
+  <!-- <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=marukeso&show_icons=true&count_private=true" />
     </a>
-  </div>
+  </div> -->
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marukeso&layout=compact" />
